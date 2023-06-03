@@ -9,17 +9,7 @@
   "author": "Nishant Shrivastva",
   "license": "ISC",
   "dependencies": {
-    "@chakra-ui/react": "^2.6.1",
-    "@davatar/react": "^1.11.1",
-    "@emotion/react": "^11.11.0",
-    "@emotion/styled": "^11.11.0",
-    "@openzeppelin/contracts": "^4.9.0",
-    "framer-motion": "^10.12.16",
-    "next": "^13.4.4",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-query": "^3.39.3",
-    "wagmi": "^1.0.8"
+    "@openzeppelin/contracts": "^4.9.0"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",

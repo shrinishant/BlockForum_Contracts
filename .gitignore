@@ -13,4 +13,5 @@ artifacts
 
 ui
 fontend
+./package-lock.json
 
