@@ -1,0 +1,32 @@
+{
+  "name": "web3_forum",
+  "version": "1.0.0",
+  "description": "A Web3 Forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Shrivastva",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.6.1",
+    "@davatar/react": "^1.11.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@openzeppelin/contracts": "^4.9.0",
+    "framer-motion": "^10.12.16",
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3",
+    "wagmi": "^1.0.8"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.41.0",
+    "hardhat": "^2.14.0"
+  }
+}
